@@ -1,0 +1,7 @@
+*.sh
+*.pyc
+*.swp
+*.pid
+*_pycache_
+settings/
+asculter/
